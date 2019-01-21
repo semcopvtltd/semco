@@ -1,1 +1,182 @@
-sitemap.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.semcopvtltd.com.np/</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/index.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/catalogue.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/commercial-kitchen.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/fryer.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/griddle.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/pasta-cooker.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/food-warmer.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/bain-marie.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/rotisserie.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/pizza-oven.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/baking-oven.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/convection-oven.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/salamander.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/waffle-baker.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/contact-grill.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/food-mixer.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/meat-mincer.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/dough-series.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/icecream-machine.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/ice-maker.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/juice-dispenser.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/ice-crusher.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/coffee-machine.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/chafing-dish.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/sink-table.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/racks.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/service-equipment.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/wallpaper.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/pictures.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/videos.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/contact.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/privacy.html</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.semcopvtltd.com.np/catalogue.pdf</loc>
+  <lastmod>2019-01-21T07:29:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
