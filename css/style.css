@@ -2,7 +2,7 @@
 Colors:
 	Body 		  : #868F9B
 	Headers 	: #10161A
-	Primary 	: #FF0000
+	Primary 	: #7e1416
 	Dark      : #FCFCFF
 	Grey 		  : #F4F4F4 #FAFAFA #EEE
 
@@ -37,10 +37,10 @@ Table OF Contents
 
 .pgno {
     text-align: center;
-    color: #ff0000; 
+    color: #7e1416; 
     font-weight: 900;
     text-shadow: 5px 5px 10px #dcd;
-    border-bottom: 5px solid #FF0000;
+    border-bottom: 5px solid #7e1416;
 }
 
 .padd{
@@ -102,7 +102,7 @@ h5 {
 }
 
 a {
-    color: #FF0000;
+    color: #7e1416;
     text-decoration: none;
     -webkit-transition: 0.2s opacity;
     transition: 0.2s opacity;
@@ -112,11 +112,11 @@ a:hover, a:focus {
     text-decoration: none;
     outline: none;
     opacity: 0.8;
-    color: #FF0000;
+    color: #7e1416;
 }
 
 .main-color {
-    color: #FF0000;
+    color: #7e1416;
 }
 
 .white-text {
@@ -124,12 +124,12 @@ a:hover, a:focus {
 }
 
 ::-moz-selection {
-    background-color: #FF0000;
+    background-color: #7e1416;
     color: #FFF;
 }
 
 ::selection {
-    background-color: #FF0000;
+    background-color: #7e1416;
     color: #FFF;
 }
 
@@ -165,7 +165,7 @@ ul, ol {
 }
 
 .bg-dark {
-    background-color: #ff0000;
+    background-color: #7e1416;
 }
 
 
@@ -210,7 +210,7 @@ ul, ol {
   	display:block;
   	height:4px;
   	width:40px;
-  	background-color: #FF0000;
+  	background-color: #7e1416;
     margin-top: 20px;
 }
 
@@ -240,7 +240,7 @@ textarea {
 }
 
 input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type="number"]:focus, input[type="date"]:focus, input[type="url"]:focus, input[type="tel"]:focus, textarea:focus {
-    border-color: #FF0000;
+    border-color: #7e1416;
     opacity: 1;
 }
 
@@ -257,7 +257,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .main-btn {
-    background: #FF0000;
+    background: #7e1416;
     color: #FFF;
 }
 
@@ -268,8 +268,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 
 .outline-btn {
     background: transparent;
-    color: #FF0000 !important;
-    border-color: #FF0000;
+    color: #7e1416 !important;
+    border-color: #7e1416;
 }
 
 .main-btn:hover, .white-btn:hover, .outline-btn:hover {
@@ -316,7 +316,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 \*------------------------------------*/
 
 .navbar-brand .red{
-    color:#FF0000;
+    color:#7e1416;
     font-size: 50px;
     font-family: 'Righteous', cursive;
     font-weight: normal;
@@ -329,7 +329,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .line1{
-    border: 5px solid #FF0000;
+    border: 5px solid #7e1416;
 }
 
 
@@ -385,12 +385,12 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
     .main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a {
         background: transparent;
-        color: #FF0000;
+        color: #7e1416;
     }
     .main-nav>li>a:after {
         content: "";
         display: block;
-        background-color: #FF0000;
+        background-color: #7e1416;
         height: 2px;
         width: 0%;
         -webkit-transition: 0.2s width;
@@ -419,7 +419,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         position: absolute;
         right: -50%;
         top: 0;
-        background-color: #FF0000;
+        background-color: #7e1416;
         width: 280px;
         margin-right: 30px;
         -webkit-box-shadow: 0px 5px 5px -5px rgba(53, 64, 82, 0.2);
@@ -451,7 +451,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
     .dropdown li a:hover {
         background-color: #FFF;
-        color: #FF0000;
+        color: #7e1416;
         padding-left: 5px;
         margin: 5px 0px 5px 0px;
     }
@@ -489,8 +489,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         position: fixed;
         right: 0;
         height: calc(100vh - 80px);
-        -webkit-box-shadow: 0px 80px 0px 0px #ff0000;
-        box-shadow: 0px 80px 0px 0px #ff0000;
+        -webkit-box-shadow: 0px 80px 0px 0px #7e1416;
+        box-shadow: 0px 80px 0px 0px #7e1416;
         max-width: 250px;
         width: 0%;
         -webkit-transform: translateX(100%);
@@ -498,7 +498,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         transform: translateX(100%);
         margin: 0;
         overflow-y: auto;
-        background: #ff0000;
+        background: #7e1416;
         -webkit-transition: 0.2s all;
         transition: 0.2s all;
     }
@@ -522,7 +522,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
     .main-nav li a:hover, .main-nav li a:focus {
         background-color: #FFF;
-        color: #FF0000;
+        color: #7e1416;
         opacity: 1;
     }
     .has-dropdown>a:after {
@@ -691,13 +691,13 @@ header {
 
 .about i {
     font-size: 36px;
-    color: #FF0000;
+    color: #7e1416;
     margin-bottom: 20px;
 }
 
 .about:after {
     content: "";
-    background-color: #ff0000;
+    background-color: #7e1416;
     position: absolute;
     left: 0;
     top: 0;
@@ -810,7 +810,7 @@ header {
     -ms-transform: translateY(100%);
     transform: translateY(100%);
     opacity: 0;
-    color: #FF0000;
+    color: #7e1416;
     margin-bottom: 5px;
     -webkit-transition: 0.2s all;
     transition: 0.2s all;
@@ -839,7 +839,7 @@ header {
     display: inline-block;
     width: 50px;
     height: 50px;
-    background-color: #FF0000;
+    background-color: #7e1416;
     color: #FFF;
     line-height: 50px;
     text-align: center;
@@ -868,13 +868,13 @@ header {
     left: 20px;
     text-align: center;
     font-size: 32px;
-    color: #FF0000;
+    color: #7e1416;
     border-radius: 50%;
 }
 
 .service:after {
     content: "";
-    background-color: #ff0000;
+    background-color: #7e1416;
     position: absolute;
     left: 0;
     top: 0;
@@ -1000,7 +1000,7 @@ header {
 }
 
 .team:hover .team-content span {
-    color: #FF0000;
+    color: #7e1416;
 }
 
 .team .team-social {
@@ -1017,7 +1017,7 @@ header {
     line-height: 50px;
     width: 50px;
     text-align: center;
-    background-color: #FF0000;
+    background-color: #7e1416;
     color: #FFF;
 }
 
@@ -1051,7 +1051,7 @@ header {
 }
 
 .blog .blog-meta li i {
-    color: #FF0000;
+    color: #7e1416;
     margin-right: 5px;
 }
 
@@ -1089,12 +1089,12 @@ header {
 
 .blog-tags a:hover {
   color: #FFF;
-  background-color: #FF0000;
+  background-color: #7e1416;
 }
 
 .blog-tags a i {
     margin-right: 3px;
-    color: #FF0000;
+    color: #7e1416;
 }
 
 .blog-tags a:hover i {
@@ -1142,7 +1142,7 @@ header {
     border-radius: 3px;
     margin-left: 5px;
     color: #FFF;
-    background-color: #FF0000;
+    background-color: #7e1416;
 }
 
 /* -- blog comments -- */
@@ -1195,11 +1195,11 @@ header {
 
 .blog-comments .media.author {
     background-color: #F4F4F4;
-    border-color: #FF0000;
-    border-bottom: 1px solid #FF0000;
+    border-color: #7e1416;
+    border-bottom: 1px solid #7e1416;
 }
 .blog-comments .media.author>.media-body>.media-heading {
-    color: #FF0000;
+    color: #7e1416;
 }
 
 .blog-comments .media.author + .media {
@@ -1257,7 +1257,7 @@ header {
     border: none;
     line-height: 40px;
     background-color: transparent;
-    color: #FF0000;
+    color: #7e1416;
 }
 
 /* -- category sidebar -- */
@@ -1276,11 +1276,11 @@ header {
 
 .widget-category a span {
     float: right;
-    color: #FF0000;
+    color: #7e1416;
 }
 
 .widget-category a:hover {
-    color: #FF0000;
+    color: #7e1416;
 }
 
 /* -- tags sidebar -- */
@@ -1296,7 +1296,7 @@ header {
 
 .widget-tags a:hover {
   color: #FFF;
-  background-color: #FF0000;
+  background-color: #7e1416;
 }
 
 /* -- posts sidebar -- */
@@ -1319,7 +1319,7 @@ header {
 }
 
 .widget-post a:hover {
-    color: #FF0000;
+    color: #7e1416;
 }
 
 .widget-post .blog-meta {
@@ -1329,12 +1329,12 @@ header {
 .widget-post .blog-meta li {
     display: inline-block;
     margin-right: 5px;
-    color: #FF0000;
+    color: #7e1416;
     font-size: 12px;
 }
 
 .widget-post li i {
-    color: #FF0000;
+    color: #7e1416;
     margin-right: 5px;
 }
 
@@ -1351,7 +1351,7 @@ header {
 
 .contact i {
     font-size: 36px;
-    color: #FF0000;
+    color: #7e1416;
     margin-bottom: 20px;
 }
 
@@ -1408,7 +1408,7 @@ header {
   line-height: 50px;
   text-align: center;
   border-radius: 3px;
-  background-color: #FF0000;
+  background-color: #7e1416;
       color:#FFF;
 }
 
@@ -1514,10 +1514,10 @@ header {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #FF0000;
+    background: #7e1416;
 }
 .owl-theme .owl-dots .owl-dot.active span {
-	  background: #FF0000;
+	  background: #7e1416;
 	  width:20px;
 }
 
@@ -1539,7 +1539,7 @@ header {
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
-    background: #FF0000;
+    background: #7e1416;
     color: #FFF;
   	padding: 0px;
   	width: 50px;
@@ -1559,7 +1559,7 @@ header {
 
 .owl-theme .owl-nav [class*='owl-']:hover {
     opacity: 0.8;
-    background: #FF0000;
+    background: #7e1416;
 }
 
 
@@ -1619,7 +1619,7 @@ header {
 }
 .preloader span {
     display: inline-block;
-    background-color: #FF0000;
+    background-color: #7e1416;
     width: 25px;
     height: 25px;
     -webkit-animation: 1s preload ease-in-out infinite;
@@ -1687,7 +1687,7 @@ header {
 }
 
 .fas {
-    color: #FF0000;
+    color: #7e1416;
     padding-top: 10px;
 }
 
