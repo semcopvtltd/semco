@@ -102,3 +102,7 @@ function initMap() {
   // The marker, positioned at Uluru
   var marker = new google.maps.Marker({position: semco, map: map});
 }
+
+//Current year script
+document.getElementById("year").innerHTML = new Date().getFullYear();
+
