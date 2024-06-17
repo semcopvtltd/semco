@@ -403,6 +403,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     .has-dropdown {
         position: relative;
     }
+
     .has-dropdown>a:before {
         font-family: 'FontAwesome';
         content: "\f054";
@@ -435,7 +436,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     .drop1{
         position: absolute;
         right: 392px;
+        height: 400px; 
+        overflow-y: auto;
     }
+    
     .main-nav>.has-dropdown>.dropdown {
         top: 100%;
         right: 50%;
