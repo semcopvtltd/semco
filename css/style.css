@@ -1585,13 +1585,13 @@ header {
 #back-to-top {
   	display:none;
   	position: fixed;
-  	bottom: 120px;
+  	bottom: 20px;
   	right: 20px;
   	width: 50px;
   	height: 50px;
   	line-height: 50px;
   	text-align: center;
-  	background: #000000;
+  	background: #7e1416;
   	border-radius:3px;
   	color: #FFF;
   	z-index: 9999;
@@ -1738,4 +1738,96 @@ details > summary:before {
 details[open] > summary:before,
 details.open > summary:before { 
     background: url('../img/plus-min.png') no-repeat center bottom; 
+}
+
+
+/** WhatsApp Button CSS **/
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
+.bounce {
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+    0%,
+    25%,
+    50%,
+    75%,
+    100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-20px);
+    }
+    60% {
+        transform: translateY(-12px);
+    }
+}
+
+@keyframes pulsing {
+  to {
+    box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
+  }
+}
+
+/** Carousel CSS **/
+.scene,
+.a3d {
+  display: grid;
+}
+
+.scene {
+  overflow: hidden;
+  perspective: 35em;
+  mask: linear-gradient(90deg, #0000, red 20% 80%, #0000);
+  -webkit-mask: linear-gradient(90deg, #0000, red 20% 80%, #0000);
+}
+
+.a3d {
+  place-self: center;
+  transform-style: preserve-3d;
+  animation: ry 32s linear infinite;
+}
+
+@keyframes ry {
+  to {
+    rotate: y 1turn;
+  }
+}
+
+.card {
+  --w: 17.5em;
+  --ba: 1turn / var(--n);
+  grid-area: 1 / 1;
+  width: var(--w);
+  aspect-ratio: 7 / 10;
+  object-fit: cover;
+  border-radius: 1.5em;
+  backface-visibility: hidden;
+  transform: rotateY(calc(var(--i) * var(--ba)))
+    translateZ(calc(-1 * (0.5 * var(--w) + 0.5em) / tan(0.5 * var(--ba))));
+  box-shadow: 0 2em 2em -1em rgba(0, 0, 0, 0.3);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .a3d {
+    animation-duration: 128s;
+  }
 }
